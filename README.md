@@ -33,6 +33,9 @@ This project highlights my skills in:
 - Score points for accurate and fast service.
 
 ---
+## Game Demo
+- Watch the [game clips](https://hadiyahkashif4.artstation.com/projects/QK0rDE)!
+- Watch the [game demo](https://drive.google.com/file/d/1_Vspz8J5WYNDsB-Mrh_XcachyTTIAD7E/view?usp=sharing)!
 
 ## Credits
 - Developer/3D Modeler: Hadiyah Kashif
